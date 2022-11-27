@@ -24,7 +24,7 @@ The PCB you get from JLCPCB will look like this:
 
 The switches can be soldered in directly to the PCB or you can use hotswap sockets. If you want to use hotswap sockets, you will have to print the appropriate bottom part of the case (it's 1mm thicker).
 
-If you want to use Choc V2 switches, you will have to remove the new unconnected metal stabilizer pin by either flush cutting or disassembling the switch.
+If you want to use Choc V2 switches, you will have to remove the new unconnected metal stabilizer pin by either flush cutting or disassembling the switch.  Note, the 3d printed buttons are not compatible with v2 cross-style plunger.
 
 ![Remove stabilizer](images/choc-v2-remove-pin.jpg) 
 
