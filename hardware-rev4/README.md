@@ -25,6 +25,7 @@ The PCB you get from JLCPCB will look like this:
 The switches can be soldered in directly to the PCB or you can use hotswap sockets. If you want to use hotswap sockets, you will have to print the appropriate bottom part of the case (it's 1mm thicker).
 
 If you want to use Choc V2 switches, you will have to remove the new unconnected metal stabilizer pin by either flush cutting or disassembling the switch.
+
 ![Remove stabilizer](images/choc-v2-remove-pin.jpg) 
 
 You don't have to use the [code](../firmware-rp2040) included here, you can use any other RP2040-compatible firmware. The included firmware works with the PS3 and PC.
